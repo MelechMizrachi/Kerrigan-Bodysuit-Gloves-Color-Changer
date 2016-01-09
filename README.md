@@ -1,8 +1,8 @@
 #First and foremost credits:
 
-Guffeh ﻿- Kerrigan Bodysuit﻿
-flaicher ﻿- Kerrigan Bodysuit Color Change (Inspiration and esp knowhow)﻿
-vasstek ﻿- Kerrigan Gloves for glove textures﻿
+- Guffeh - Kerrigan Bodysuit
+- flaicher - Kerrigan Bodysuit Color Change (Inspiration and esp knowhow)﻿
+- vasstek - Kerrigan Gloves for glove textures﻿
 
 Without the initial work done by the above individuals this wouldn't be possible.
 
