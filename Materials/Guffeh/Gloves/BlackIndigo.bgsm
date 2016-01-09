@@ -1,0 +1,23 @@
+{
+  "sDiffuseTexture": "Guffeh/Gloves/Gloves_BlackIndigo.dds",
+  "sNormalTexture": "Guffeh/Gloves_n.dds",
+  "sSmoothSpecTexture": "Guffeh/Gloves_s.dds",
+  "sEnvmapTexture": "Shared/Cubemaps/mipblur_DefaultOutside1.dds",
+  "fRimPower": 2.0,
+  "fSubsurfaceLightingRolloff": 0.3,
+  "bSpecularEnabled": true,
+  "cSpecularColor": "#ffffff",
+  "fSpecularMult": 1.0,
+  "sRootMaterialPath": "template/OutfitTemplate_Wet.bgsm",
+  "fEmittanceMult": 1.0,
+  "bCastShadows": true,
+  "fDisplacementTextureBias": -0.5,
+  "fDisplacementTextureScale": 10.0,
+  "fTessellationPnScale": 1.0,
+  "fTessellationBaseFactor": 1.0,
+  "fGrayscaleToPaletteScale": 0.5,
+  "bTileU": true,
+  "bTileV": true,
+  "fAlphaTestRef": 128,
+  "bTwoSided": true
+}
